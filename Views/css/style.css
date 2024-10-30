@@ -1,0 +1,47 @@
+table {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: left;
+}
+
+/*
+    ESTILOS DEL MENU PRINCIPAL
+*/
+.Menu{
+
+    table {
+        background-color: #ffffff;
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    
+    th, td {
+        border: 1px solid #000000;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    th {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    
+    td {
+        font-size: 14px;
+    }
+}
+
